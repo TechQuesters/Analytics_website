@@ -1,0 +1,64 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.4;
+    margin: 0;
+    padding: auto;
+    /* background-color: #f9eeee; */
+    background: linear-gradient(to right, #98b4fc, #f689fc);
+}
+
+.topnav {
+    background-color: #3b33dd;
+    overflow: hidden;
+    /* border-radius: 15px; */
+}
+.main-header{
+    text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 21px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #e59393;
+    color: rgb(18, 18, 91);
+    border-radius: 10px;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #5888f0;
+    color: white;
+    /* border-radius: 15px; */
+}
+.wel h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #032a95;
+}
+.image{
+    width: 85px;
+    /* padding-top: 5px; */
+}
+.about-section{
+    margin: 20px;
+}
+h2{
+    text-align: center;
+   /* display: flex; */
+}
+p{
+    margin: 20px;
+}
