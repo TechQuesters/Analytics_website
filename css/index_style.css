@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
 } */
+
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.4;
@@ -73,8 +75,8 @@ p{
 .persons{
     display: flex;
     justify-content: center;
-}
+    }
 .member h3{
-    padding-left: 30px;
+    text-align: center;
     color: #033cb8;
 }
